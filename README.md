@@ -8,6 +8,6 @@ especially when these include function, formula, or environment objects.
 
 The deflate package will take an R object and inspect it, pruning away
 unnecessary pieces so that the final object may be serialized without
-additional space bloat. In some cases, this has reduce 5GB+ objects
+additional space bloat. In some cases, this has reduced 5GB+ objects
 to several megabytes.
 
